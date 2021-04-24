@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
 /* Header Nav */
 
 .header {
@@ -45,14 +55,6 @@ body {
 
 /* End of Header Nav */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 /* Hero */ 
 
@@ -65,6 +67,8 @@ p {
     background-position: center;
 }
 
+/* Content */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,8 +78,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* Content */
 
 .content {
     width: 75%;
