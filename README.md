@@ -9,5 +9,8 @@ A website that offers SEO services.
 * HTML
 * CSS
 
+## Site
+https://timanlemvo.github.io/week-one/
+
 ## Contribution
 Made with ❤️ by Tima Nlemvo
